@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot33",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "AAO2026.aternos.me",
-    "port": 18372,
+    "port": 22728,
     "version": "1.20.1",
     "try-creative": false
   },
